@@ -1,6 +1,6 @@
 namespace Battlefield.Data
 {
-    public class BattlefieldGameplayStartData
+    public class FieldData
     {
     
     }
